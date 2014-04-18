@@ -1,4 +1,7 @@
 A very simple blob finder demo - finds white blobs on a dark background. 
 
-To run download test images (from here ) and place in 'images' sub-directory. 
+To run: 
+
+* download the test images (from here ) and place in 'images' sub-directory. 
+* run 'python blob_finder_demo.py'
 
